@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\bin\Debug\gotoconcept.exe.config
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\bin\Debug\gotoconcept.exe
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\bin\Debug\gotoconcept.pdb
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\obj\Debug\gotoconcept.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\obj\Debug\gotoconcept.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\obj\Debug\gotoconcept.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\obj\Debug\gotoconcept.exe
+M:\Simplilearn\mphasis\day2\gotoconcept\gotoconcept\obj\Debug\gotoconcept.pdb
